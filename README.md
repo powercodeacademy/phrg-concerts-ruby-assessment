@@ -1,5 +1,7 @@
 # Phase 3 Code Challenge: Concerts
 
+> To view in VSCode, right click on the README.md file and select "Open Preview".
+
 For this assignment, we'll be working with a Concert domain.
 
 We have three models: `Band`, `Concert`, and `Venue`.
@@ -27,10 +29,9 @@ Build out all of the methods listed in the deliverables. The methods are listed
 in a suggested order, but you can feel free to tackle the ones you think are
 easiest. Be careful: some of the later methods rely on earlier ones.
 
-**Remember!** This code challenge does not have tests. You cannot run `rspec`
-and you cannot run `learn`. You'll need to create your own sample instances so
-that you can try out your code on your own. Make sure your associations and
-methods work in the console before submitting.
+**Remember!** This code challenge does not have tests. You cannot run `rspec`.
+You'll need to create your own sample instances so that you can try out your code on your own.
+Make sure your associations and methods work in the console before submitting.
 
 We've provided you with a tool that you can use to test your code. To use it,
 run `rake console` from the command line. This will start a `pry` session with
@@ -49,6 +50,15 @@ your code to adhere to best practices.
 **Before you submit!** Save and run your code to verify that it works as you
 expect. If you have any methods that are not working yet, feel free to leave
 comments describing your progress.
+
+## Submission
+
+Do not push your changes up to Github. When you finish:
+
+1. If you haven't already, create a custom branch with `git checkout -b custom_branch`.
+2. `git add` and `git commit` your changes.
+3. From you custom branch, run `git format-patch main --stdout > your_name.patch`, replacing `your_name` with your first and last name.
+4. Send the patch file to your instructor on Connect before the specified time. Remember, you can use `open .` to launch a Finder window from your current directory, and then drag your file into Connect.
 
 ## What You Already Have
 
