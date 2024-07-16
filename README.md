@@ -103,7 +103,7 @@ migration for the `concerts` table.
   your migration, create any columns your `concerts` table will need to
   establish these relationships.
 - The `concerts` table should also have:
-  - A `date` column that stores an string.
+  - A `date` column that store a string.
 
 After creating the `concerts` table using a migration, use the `seeds.rb` file
 to create instances of your `Concert` class so you can test your code.
