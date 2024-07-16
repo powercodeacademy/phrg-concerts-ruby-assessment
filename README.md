@@ -48,8 +48,7 @@ prioritize getting things working. Then, if there is time at the end, refactor
 your code to adhere to best practices.
 
 **Before you submit!** Save and run your code to verify that it works as you
-expect. If you have any methods that are not working yet, feel free to leave
-comments describing your progress.
+expect!
 
 ## Submission
 
